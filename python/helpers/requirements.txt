@@ -1,7 +1,7 @@
 pip==19.1.1
 pip-tools==3.8.0
 hashin==0.14.5
-pipenv==2018.11.26
+pipenv==2020.6.2
 pipfile==0.0.2
 poetry==0.12.16
 
